@@ -8,6 +8,6 @@ namespace WindowsFormsApp1
 {
     class ConnectionString
     {
-        public static string connectionString = @"Data Source=DESKTOP-QTR2F8I\SQLEXPRESS;Initial Catalog=QL_Tour;Integrated Security=True";
+        public static string connectionString = @"Data Source=DESKTOP-QTR2F8I;Initial Catalog=QL_Tour;Integrated Security=True";
     }
 }
